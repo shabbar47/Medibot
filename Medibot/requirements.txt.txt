@@ -1,0 +1,2 @@
+Install compatible Arduino IDE version on your system (Mac/Linux/Windows) respectively.
+pip install <dependencies>, where dependencies are enlisted in the code respectively for face recognition module.
